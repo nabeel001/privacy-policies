@@ -9,7 +9,7 @@ reachable and non-geofenced.
 
 | App | Path | URL |
 | --- | ---- | --- |
-| FitCalc: Fitness Check | `fitcalc/` | `https://<username>.github.io/privacy-policies/fitcalc/` |
+| FitCalc: Fitness Check | `fitcalc/` | https://nabeel001.github.io/privacy-policies/fitcalc/ |
 
 ## Adding a policy for a new app
 
