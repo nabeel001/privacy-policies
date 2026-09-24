@@ -10,6 +10,7 @@ reachable and non-geofenced.
 | App | Path | URL |
 | --- | ---- | --- |
 | FitCalc: Fitness Check | `fitcalc/` | https://nabeel001.github.io/privacy-policies/fitcalc/ |
+| Sudoku Puzzle | `sudoku-puzzle/` | https://nabeel001.github.io/privacy-policies/sudoku-puzzle/ |
 
 ## Adding a policy for a new app
 
