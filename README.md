@@ -11,6 +11,7 @@ reachable and non-geofenced.
 | --- | ---- | --- |
 | FitCalc: Fitness Check | `fitcalc/` | https://nabeel001.github.io/privacy-policies/fitcalc/ |
 | Sudoku Puzzle | `sudoku-puzzle/` | https://nabeel001.github.io/privacy-policies/sudoku-puzzle/ |
+| Superfan Remote | `superfan-remote/` | https://nabeel001.github.io/privacy-policies/superfan-remote/ |
 
 ## Adding a policy for a new app
 
